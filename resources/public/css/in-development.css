@@ -1,0 +1,10 @@
+body { width: 80%; min-width: 700px; margin: 0px; margin-left: auto; margin-right: auto; padding: 0px; }
+
+.page-header { background-image: url(/static/img/in-development-header.png); height: 200px; background-repeat: no-repeat; background-position: left bottom; }
+.page-footer { padding: 3% 15%; font-size: xx-small; }
+
+.email-input { border: 1px solid #ddd; padding: 5px; font-size: large; box-shadow: -2px 3px 2px #888; margin-right: 15px; }
+button { background-color: #02425e; font-size: large; color: white; font-weight: bold; border: none; padding: 5px; box-shadow: -2px 3px 2px #888; cursor: pointer; }
+
+.content, .email-submission, .already-submitted { width: 45%; margin-left: auto; margin-right: auto; }
+.already-submitted { font-style: oblique; }
