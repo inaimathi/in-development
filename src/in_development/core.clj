@@ -21,7 +21,7 @@
           [:body
            [:div {:class "page-header"}]
            [:div {:class "content"}
-            [:p "In Development is a Toronto-based Open Source/Free Software space and fund. We aim to help local developers build great software without either the tyranny of the market or the headaches of traditional grant applications."]
+            [:p "In Development is a Canadian Open Source/Free Software space and fund. We help developers build great software, promote and support local open source projects, and build connections from Canadian cities to the broader open source ecosystem."]
             [:p "We're currently, appropriately, in development."]]
            [:div {:class "email-submission"}
             [:p
